@@ -2,7 +2,7 @@
 
 This is the official landing page for **ProColors Custom Gear**, a provider of high-quality, custom-printed gear.
 
-🖥️ **Live Site**: [https://YOUR-USERNAME.github.io/procolors-site](https://YOUR-USERNAME.github.io/procolors-site)
+🖥️ **Live Site**: https://procolorscustom.github.io/procolors-site/
 
 ## 🚀 About
 
